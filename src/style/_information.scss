@@ -83,10 +83,8 @@
             border-radius: 57px;
             background: #7d8492;
 
-            pre
+            &.version
             {
-                margin: 0;
-
                 @include text_headline(#fff);
             }
         }
